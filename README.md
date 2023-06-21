@@ -12,6 +12,11 @@ exercise-pack を使用するにはGitHub からリポジトリをダウンロ�
 git clone https://github.com/Integrated-gw-2024/exercise-pack.git
 ```
 
+cloneが完了したらローカルに新規で追加されたディレクトリに移動してください。
+```
+cd exercise-pack
+```
+
 ### 2. Node.js を導入する
 
 こちらを確認してください。
