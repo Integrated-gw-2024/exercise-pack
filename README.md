@@ -10,15 +10,15 @@ exercise-pack はSASS を学びやすくするための開発環境です。
 https://nodejs.org/ja/download/
 
 ### 2. exercise-pack をローカルにcloneする
-exercise-pack を使用するにはGitHub からリポジトリをダウンロードし、ローカルに作成(clone)する必要があります。
+exercise-pack を使用するにはGitHub からリポジトリをダウンロードし、ローカルに作成(clone) する必要があります。
 
-そこで以下のコマンドを実行することで、簡単にローカルにcloneすることが出来ます。
+そこで以下のコマンドを実行することで、簡単にローカルにclone することが出来ます。
 
 ```
 git clone https://github.com/Integrated-gw-2024/exercise-pack.git
 ```
 
-cloneが完了したらローカルに新規で追加されたディレクトリに移動してください。
+clone が完了したらローカルに新規で追加されたディレクトリに移動してください。
 ```
 cd exercise-pack
 ```
@@ -54,6 +54,6 @@ import "../css/[ファイル名].scss"
 ```
 
 ## Gitをもっと知ってみる
-Git に関しての使い方は次のサイトをおすすめします。
+Git に関する使い方は次のサイトをおすすめします。
 
 [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
