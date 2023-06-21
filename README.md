@@ -3,7 +3,13 @@ exercise-pack はSASS を学びやすくするための開発環境です。
 
 
 ## 使い方
-### 1. exercise-pack をローカルにcloneする
+### 1. Node.js を導入する
+
+こちらを確認してください。
+
+https://nodejs.org/ja/download/
+
+### 2. exercise-pack をローカルにcloneする
 exercise-pack を使用するにはGitHub からリポジトリをダウンロードし、ローカルに作成(clone)する必要があります。
 
 そこで以下のコマンドを実行することで、簡単にローカルにcloneすることが出来ます。
@@ -16,12 +22,6 @@ cloneが完了したらローカルに新規で追加されたディレクトリ
 ```
 cd exercise-pack
 ```
-
-### 2. Node.js を導入する
-
-こちらを確認してください。
-
-https://nodejs.org/ja/download/
 
 ### 3. パッケージをインストールする
 
